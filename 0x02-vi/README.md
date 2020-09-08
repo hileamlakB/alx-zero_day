@@ -8,5 +8,4 @@ In each of the files found in this directory lies the vi command to do what is m
 
 *For example:*
 
-If a file is named 0-opening then inside this file lies the command for opening
-a file in emacs (**C-x b**), as mentioned in the documentation
+If a file is named 0-inserting then inside this file lies the command for insertinaa text in vim (**i**).
